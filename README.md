@@ -1,1 +1,1 @@
-# Patterns [![Build status](https://ci.appveyor.com/api/projects/status/pe9huo3nljgoqbci?svg=true)](https://ci.appveyor.com/project/Ksenia-Mesh/patterns2-8o98v)
+# Patterns [![Build status](https://ci.appveyor.com/api/projects/status/9edga6atjek5mg5r?svg=true)](https://ci.appveyor.com/project/Ksenia-Mesh/patterns)
